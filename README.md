@@ -1,6 +1,8 @@
 # YouTube-Downloader by JDL_PIXEL
 
-Simple overview of use/purpose.
+[Download Setup v2.3](https://jdlpixel.de/download/YouTube%20Downloader-Setup-v2-3.exe)
+
+[Download Setup v2.1](https://github.com/JDLPIXEL/YT-Downloader/releases/download/v2.1/YouTubeDownloader-v2-1-Setup.exe)
 
 ## Description
 
@@ -50,8 +52,17 @@ JDL_PIXEL aka Jamie
     * Installation setup has been changed.
     * Added uninstaller.
     * exe shortcut can now also been created on the desktop
-* ...
-    * That changelog coming soon.
+* v2.1
+    * 4 new download threads have been added for better performance.
+    * Fixed the downloader getting stuck during download.
+    * The download path can now be defined by a button or a text field.
+    * New error messages have been added. If the download does not work, an error code is now always displayed.
+    * Possible error codes can now be copied and added to GitHub Issues.
+    * New menu with 2 features like "Exit program" and "Help" added.
+    * Setup file has been added.
+    * Uninstall file has been added.
+    * Old menu has been removed.
+    * Quality text has been removed.
 
 ## License
 
