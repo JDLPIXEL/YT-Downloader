@@ -1,6 +1,7 @@
 # YouTube-Downloader by JDL_PIXEL
 
-Simple overview of use/purpose.
+[Download Setup v2.3](https://jdlpixel.de/download/YouTube%20Downloader-Setup-v2-3.exe)
+[Download Setup v2.1](https://github.com/JDLPIXEL/YT-Downloader/releases/download/v2.1/YouTubeDownloader-v2-1-Setup.exe)
 
 ## Description
 
