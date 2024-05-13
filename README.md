@@ -1,8 +1,15 @@
 # YouTube-Downloader by JDL_PIXEL
 
+[Download Setup v2.3 - BETA](https://github.com/JDLPIXEL/YT-Downloader/releases/download/v2.3-BETA/YouTube.Downloader-Setup-BETA-v2-3.exe)
+
 [Download Setup v2.3](https://jdlpixel.de/download/YouTube%20Downloader-Setup-v2-3.exe)
 
+[Download Setup v2.2](https://github.com/JDLPIXEL/YT-Downloader/releases/download/v2.2/YouTube.Downloader-Setup-v2-2.exe)
+
 [Download Setup v2.1](https://github.com/JDLPIXEL/YT-Downloader/releases/download/v2.1/YouTubeDownloader-v2-1-Setup.exe)
+
+[Download Setup v2.0](https://github.com/JDLPIXEL/YT-Downloader/releases/download/v2.0/YouTubeDownloader.-.Setup.-.v2-0.exe)
+
 
 ## Description
 
