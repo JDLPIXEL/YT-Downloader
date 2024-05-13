@@ -54,6 +54,11 @@ JDL_PIXEL aka Jamie
 
 ## Version History
 
+* v2.3 - OPEN BETA
+    * //More Informations will be added soon!//
+* v2.3
+    * Version information has been updated.
+    * Download error has been fixed!
 * v2.2
     * YouTube videos download errors has been fixed see: [get_throttling_function_name: could not find match for multiple](https://github.com/JDLPIXEL/YT-Downloader/issues/1)
     * Installation setup has been changed.
@@ -70,6 +75,14 @@ JDL_PIXEL aka Jamie
     * Uninstall file has been added.
     * Old menu has been removed.
     * Quality text has been removed.
+* v2.0
+    * Added better style with tkinter
+    * Added better buttons like the "Paste" or "Restart Programm" - Button
+    * Moved the "YouTube_Downloader.exe / by JDL_PIXEL" - Label to the top
+    * Added 720p-HD quality text.
+    * Link-field is now bigger.
+* v1.0
+    * The start...
 
 ## License
 
