@@ -58,7 +58,7 @@ JDL_PIXEL aka Jamie
 ## Version History
 
 * v2.3 - OPEN BETA
-    * //More Informations will be added soon!//
+    * More information for the beta-version [here](https://github.com/JDLPIXEL/YT-Downloader/releases/download/v2.3-BETA/YouTubeDownloader_BetaTest-Juli-2023.pdf)
 * v2.3
     * Version information has been updated.
     * Download error has been fixed!
