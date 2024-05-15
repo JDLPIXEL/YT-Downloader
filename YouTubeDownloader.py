@@ -153,14 +153,6 @@ def display_saved_path():
 display_saved_path()  # Aufrufen der Funktion, um den gespeicherten Pfad anzuzeigen
 
 
-from tkinter import *
-from tkinter import messagebox
-import threading
-import os
-from PIL import Image, ImageTk
-
-# ...
-
 def download_start():
     download_link = download_entry.get()
     folder_path = path_entry.get()  # Speicherpfad aus dem Textfeld abrufen
